@@ -52,5 +52,6 @@ s.close()
 ## OUTPUT
 <img width="1097" height="352" alt="Screenshot 2026-11-04 100004" src="https://github.com/user-attachments/assets/5c5d50de-8151-47ee-ba03-3f6c53d24426" />
 <img width="1105" height="412" alt="Screenshot 2026-11-04 095950" src="https://github.com/user-attachments/assets/048dc166-0a66-4a46-87b4-399973537ff3" />
+
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
